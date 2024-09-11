@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Student @ Dr.N.G.P Institute Of Technology<br><br>🔭 Here's my portfolio<br>🌱 I’m currently learning DSA<br>📫 How to reach me :</p>
+<p align="left">Student @ Dr.N.G.P Institute Of Technology<br><br>🔭 Here's my <a href="https://personal-portfolio-rust-mu.vercel.app/">portfolio</a><br>🌱 I’m currently learning DSA<br>📫 How to reach me :</p>
 
 ###
 
