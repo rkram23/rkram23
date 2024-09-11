@@ -49,7 +49,9 @@
 
 ###
 <center>  
-<a href="https://leetcode.com/u/rkram5225/">![LeetCode Stats](https://leetcard.jacoblin.cool/rkram5225?theme=wtf&font=Kotta%20One&ext=contest)</a>
+<a href="https://leetcode.com/u/rkram5225/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/rkram5225?theme=wtf&font=Kotta%20One&ext=contest" alt="LeetCode Stats" />
+  </a>
 </center>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rkram23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
