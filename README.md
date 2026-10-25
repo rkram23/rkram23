@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Student @ Curtin University<br><br>🔭 Here's my <a href="https://personal-portfolio-rust-mu.vercel.app/">portfolio</a><br>🌱 I’m currently learning DSA<br>📫 How to reach me :</p>
+<p align="left">Student @ Curtin University<br><br>🔭 Here's my <a href="https://personal-portfolio-rust-mu.vercel.app/">portfolio</a><br>🌱 Stepping towards AI Engineer<br>📫 How to reach me :</p>
 
 ###
 
